@@ -97,7 +97,7 @@ export default function Sidebar({
             }}
           >
             <Kanban size={18} className="nav-icon" />
-            <span className="nav-label">Task Board</span>
+            <span className="nav-label">Tasks Board</span>
             {taskStats.total > 0 && (
               <span className="nav-counter">{taskStats.total}</span>
             )}
