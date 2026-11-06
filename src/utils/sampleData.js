@@ -141,3 +141,4 @@ export const CATEGORIES = [
 export const PRIORITIES = ["All Priorities", "High", "Medium", "Low"];
 
 export const STATUSES = ["To Do", "In Progress", "Completed"];
+

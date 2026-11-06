@@ -264,3 +264,4 @@ Once deployed (locally, via Docker, or through Jenkins):
 - **Drag-and-Drop**: Click and hold any task card on the Kanban board to drag it between *To Do*, *In Progress*, and *Completed*.
 - **Quick Status Arrows**: Use the left (`<`) and right (`>`) arrow buttons on cards to transition tasks quickly without dragging.
 - **Reset Demo Data**: Click **Reset Demo Data** in the bottom left sidebar anytime to reload the initial sample tasks.
+

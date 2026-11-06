@@ -62,3 +62,4 @@ export function resetToSampleTasks() {
 export function generateTaskId() {
   return 'task-' + Date.now() + '-' + Math.random().toString(36).substr(2, 6);
 }
+
